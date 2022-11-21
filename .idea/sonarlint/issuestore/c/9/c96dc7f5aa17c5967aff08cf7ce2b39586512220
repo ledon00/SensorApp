@@ -1,0 +1,12 @@
+
+a
+java:S1301>"KReplace this "switch" statement by "if" statements to increase readability.(÷ÊÍ“
+D
+java:S1659")Declare "sensorAccel" on a separate line.(øüšÿÿÿÿÿ
+w
+java:S1450"aRemove the "sensorNameTextView" field and declare it as a local variable in the relevant methods.(„”÷ë
+7	java:S131>""Add a default case to this switch.(÷ÊÍ“
+J
+java:S1068"/Remove this unused "sensorLight" private field.(øüšÿÿÿÿÿ
+J
+java:S1068"/Remove this unused "sensorAccel" private field.(øüšÿÿÿÿÿ
